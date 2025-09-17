@@ -1,0 +1,4 @@
+courseId,day,startTime,duration,classroom,building,teacher,groupId
+11123,Wednesday,14:00,1,Rm11,M,Dr. Vladislav Shteeman,T1
+11123,Friday,15:00,1,Rm12,M,Alejandro Gulikhov,T2
+11123,Wednesday,14:00,1,Rm13,M,Avraham Cohen,T3

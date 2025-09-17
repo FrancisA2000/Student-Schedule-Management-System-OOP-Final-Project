@@ -1,0 +1,2769 @@
+courses:
+  '11002':
+    courseId: 11002
+    credits: 5.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Dr. Rami Aharoni
+    name: Algebra I
+  '11004':
+    courseId: 11004
+    credits: 5.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Dr. Vladislav Shteeman
+    name: Calculus I
+  '11006':
+    courseId: 11006
+    credits: 5.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Yael Erez
+    name: Calculus II
+  '11057':
+    courseId: 11057
+    credits: 2.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Oren Zaltz
+    name: Advanced English II
+  '11063':
+    courseId: 11063
+    credits: 2.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Dr. Fadil Tareef
+    name: Basic English II
+  '11064':
+    courseId: 11064
+    credits: 2.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Dr. Einat Ravid
+    name: Advanced English I
+  '11121':
+    courseId: 11121
+    credits: 2.5
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Dr. Ira Wolfson
+    name: ODE
+  '11122':
+    courseId: 11122
+    credits: 4.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Eilon Littwitz
+    name: PDE & Fourier
+  '11123':
+    courseId: 11123
+    credits: 4.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Albert Profis
+    name: Complex Functions
+  '11231':
+    courseId: 11231
+    credits: 4.5
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Dr. Rafael Shalala
+    name: Physics I
+  '11232':
+    courseId: 11232
+    credits: 4.5
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Anatoly Likhult
+    name: Physics II
+  '11233':
+    courseId: 11233
+    credits: 4.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Inbal Ronen
+    name: Physics III
+  '251961':
+    courseId: 251961
+    credits: 1.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Dr. Pini Zorea
+    name: Engineering Fundamentals 3
+  '31017':
+    courseId: 31017
+    credits: 3.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Yarden Sarabi
+    name: Competitive Project
+  '31100':
+    courseId: 31100
+    credits: 3.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: David Margolis
+    name: Engineering Design A
+  '31101':
+    courseId: 31101
+    credits: 3.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Yana Zamustiano
+    name: Eng. Design A Industry/Research
+  '31102':
+    courseId: 31102
+    credits: 3.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Alejandro Gulikhov
+    name: Engineering Design B
+  '31103':
+    courseId: 31103
+    credits: 5.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Tom Reiner
+    name: Engineering Design B Research
+  '31104':
+    courseId: 31104
+    credits: 7.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Itzhak Shlomo
+    name: Engineering Design B Industry
+  '31230':
+    courseId: 31230
+    credits: 2.5
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Dr. Samuel Kosolapov
+    name: Introduction to Computers
+  '31316':
+    courseId: 31316
+    credits: 5.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Avraham Cohen
+    name: Intro to EE
+  '31350':
+    courseId: 31350
+    credits: 3.5
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Dr. Beto Catz
+    name: Semiconductors
+  '31401':
+    courseId: 31401
+    credits: 5.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Gnadi Tsoglin
+    name: Analog Electronics
+  '31402':
+    courseId: 31402
+    credits: 2.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Weshah Zouabi
+    name: EE Lab I
+  '31403':
+    courseId: 31403
+    credits: 2.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Fady Shakour
+    name: EE Lab II
+  '31421':
+    courseId: 31421
+    credits: 5.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Yaniv Avi
+    name: Signals & Systems
+  '31442':
+    courseId: 31442
+    credits: 3.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Ramik Khir
+    name: Digital Signal Processing
+  '31451':
+    courseId: 31451
+    credits: 4.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Eyal Sade
+    name: Random Signals & Noise
+  '31511':
+    courseId: 31511
+    credits: 4.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Ofer Tzur
+    name: Mathematics & Digital Systems
+  '31521':
+    courseId: 31521
+    credits: 4.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Shai Israeli
+    name: Digital Electronics
+  '31616':
+    courseId: 31616
+    credits: 4.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Olga Khatrinov
+    name: Intro to CS & C
+  '31705':
+    courseId: 31705
+    credits: 4.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Kitzhak Kerren
+    name: EM Fields & Waves
+  '31711':
+    courseId: 31711
+    credits: 3.5
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Shimon Pitelson
+    name: Intro to Communications
+  '31841':
+    courseId: 31841
+    credits: 2.5
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Hala Salameh
+    name: Applied Electronics
+  '31910':
+    courseId: 31910
+    credits: 3.5
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Dr. Elena Trotskovsky
+    name: Intro to Control
+  '31999':
+    courseId: 31999
+    credits: 3.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Ran Feld
+    name: Energy Conversion I
+  '41090':
+    courseId: 41090
+    credits: 2.5
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Assoc. Prof. Amir Adler
+    name: Chemistry I
+  '51742':
+    courseId: 51742
+    credits: 3.0
+    examDateA: '2026-01-13'
+    examDateB: '2026-02-13'
+    lecturer: Liviu Gal
+    name: Prob. & Stats
+labs:
+  11002_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 11002
+    day: Wednesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Gnadi Tsoglin
+  11002_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 11002
+    day: Friday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Dr. Rafael Shalala
+  11002_LB3:
+    building: L
+    classroom: Lab3
+    courseId: 11002
+    day: Wednesday
+    duration: 3
+    groupId: LB3
+    startTime: '16:00'
+    teacher: David Margolis
+  11004_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 11004
+    day: Wednesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Ran Feld
+  11004_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 11004
+    day: Friday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Yarden Sarabi
+  11004_LB3:
+    building: L
+    classroom: Lab3
+    courseId: 11004
+    day: Wednesday
+    duration: 3
+    groupId: LB3
+    startTime: '16:00'
+    teacher: Dr. Beto Catz
+  11006_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 11006
+    day: Wednesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Ran Feld
+  11057_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 11057
+    day: Thursday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Yana Zamustiano
+  11057_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 11057
+    day: Friday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Alejandro Gulikhov
+  11063_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 11063
+    day: Wednesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Shimon Pitelson
+  11064_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 11064
+    day: Thursday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Alejandro Gulikhov
+  11121_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 11121
+    day: Wednesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Shimon Pitelson
+  11121_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 11121
+    day: Friday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Dr. Elena Trotskovsky
+  11122_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 11122
+    day: Thursday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Dr. Fadil Tareef
+  11122_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 11122
+    day: Friday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Shimon Pitelson
+  11123_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 11123
+    day: Thursday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Dr. Fadil Tareef
+  11123_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 11123
+    day: Friday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Albert Profis
+  11123_LB3:
+    building: L
+    classroom: Lab3
+    courseId: 11123
+    day: Thursday
+    duration: 3
+    groupId: LB3
+    startTime: '16:00'
+    teacher: Dr. Ira Wolfson
+  11231_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 11231
+    day: Wednesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Kitzhak Kerren
+  11231_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 11231
+    day: Friday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Liviu Gal
+  11231_LB3:
+    building: L
+    classroom: Lab3
+    courseId: 11231
+    day: Wednesday
+    duration: 3
+    groupId: LB3
+    startTime: '16:00'
+    teacher: Gnadi Tsoglin
+  11232_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 11232
+    day: Thursday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Itzhak Shlomo
+  11233_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 11233
+    day: Tuesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Weshah Zouabi
+  251961_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 251961
+    day: Wednesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Fady Shakour
+  31017_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31017
+    day: Tuesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Dr. Vladislav Shteeman
+  31017_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 31017
+    day: Thursday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Dr. Samuel Kosolapov
+  31100_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31100
+    day: Tuesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Kitzhak Kerren
+  31100_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 31100
+    day: Thursday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Dr. Beto Catz
+  31100_LB3:
+    building: L
+    classroom: Lab3
+    courseId: 31100
+    day: Tuesday
+    duration: 3
+    groupId: LB3
+    startTime: '16:00'
+    teacher: Yael Erez
+  31101_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31101
+    day: Tuesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Oren Zaltz
+  31102_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31102
+    day: Monday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Anatoly Likhult
+  31102_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 31102
+    day: Wednesday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Dr. Rafael Shalala
+  31103_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31103
+    day: Monday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Fady Shakour
+  31103_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 31103
+    day: Wednesday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Alejandro Gulikhov
+  31104_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31104
+    day: Monday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Dr. Einat Ravid
+  31230_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31230
+    day: Wednesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Dr. Elena Trotskovsky
+  31230_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 31230
+    day: Friday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: David Margolis
+  31230_LB3:
+    building: L
+    classroom: Lab3
+    courseId: 31230
+    day: Wednesday
+    duration: 3
+    groupId: LB3
+    startTime: '16:00'
+    teacher: Yana Zamustiano
+  31316_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31316
+    day: Wednesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Gnadi Tsoglin
+  31316_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 31316
+    day: Friday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Albert Profis
+  31350_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31350
+    day: Tuesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Oren Zaltz
+  31401_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31401
+    day: Tuesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Fady Shakour
+  31401_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 31401
+    day: Thursday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Ofer Tzur
+  31402_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31402
+    day: Tuesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Assoc. Prof. Amir Adler
+  31402_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 31402
+    day: Thursday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Dr. Vladislav Shteeman
+  31402_LB3:
+    building: L
+    classroom: Lab3
+    courseId: 31402
+    day: Tuesday
+    duration: 3
+    groupId: LB3
+    startTime: '16:00'
+    teacher: Gnadi Tsoglin
+  31403_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31403
+    day: Monday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Gnadi Tsoglin
+  31403_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 31403
+    day: Wednesday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Dr. Rafael Shalala
+  31403_LB3:
+    building: L
+    classroom: Lab3
+    courseId: 31403
+    day: Monday
+    duration: 3
+    groupId: LB3
+    startTime: '16:00'
+    teacher: Eyal Sade
+  31421_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31421
+    day: Tuesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Dr. Elena Trotskovsky
+  31421_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 31421
+    day: Thursday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Ran Feld
+  31442_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31442
+    day: Monday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Weshah Zouabi
+  31442_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 31442
+    day: Wednesday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Weshah Zouabi
+  31451_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31451
+    day: Tuesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Yarden Sarabi
+  31511_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31511
+    day: Wednesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Yaniv Avi
+  31511_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 31511
+    day: Friday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Gnadi Tsoglin
+  31521_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31521
+    day: Monday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Dr. Elena Trotskovsky
+  31616_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31616
+    day: Wednesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Weshah Zouabi
+  31616_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 31616
+    day: Friday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Eyal Sade
+  31705_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31705
+    day: Tuesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Assoc. Prof. Amir Adler
+  31711_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31711
+    day: Monday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Dr. Rafael Shalala
+  31711_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 31711
+    day: Wednesday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Olga Khatrinov
+  31711_LB3:
+    building: L
+    classroom: Lab3
+    courseId: 31711
+    day: Monday
+    duration: 3
+    groupId: LB3
+    startTime: '16:00'
+    teacher: Dr. Einat Ravid
+  31841_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31841
+    day: Tuesday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Dr. Beto Catz
+  31841_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 31841
+    day: Thursday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Gnadi Tsoglin
+  31841_LB3:
+    building: L
+    classroom: Lab3
+    courseId: 31841
+    day: Tuesday
+    duration: 3
+    groupId: LB3
+    startTime: '16:00'
+    teacher: Albert Profis
+  31910_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31910
+    day: Monday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: David Margolis
+  31910_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 31910
+    day: Wednesday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Alejandro Gulikhov
+  31910_LB3:
+    building: L
+    classroom: Lab3
+    courseId: 31910
+    day: Monday
+    duration: 3
+    groupId: LB3
+    startTime: '16:00'
+    teacher: Kitzhak Kerren
+  31999_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 31999
+    day: Monday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Dr. Fadil Tareef
+  31999_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 31999
+    day: Wednesday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Weshah Zouabi
+  31999_LB3:
+    building: L
+    classroom: Lab3
+    courseId: 31999
+    day: Monday
+    duration: 3
+    groupId: LB3
+    startTime: '16:00'
+    teacher: Alejandro Gulikhov
+  41090_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 41090
+    day: Thursday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Dr. Rafael Shalala
+  41090_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 41090
+    day: Friday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Tom Reiner
+  51742_LB1:
+    building: L
+    classroom: Lab1
+    courseId: 51742
+    day: Thursday
+    duration: 3
+    groupId: LB1
+    startTime: '16:00'
+    teacher: Dr. Beto Catz
+  51742_LB2:
+    building: L
+    classroom: Lab2
+    courseId: 51742
+    day: Friday
+    duration: 3
+    groupId: LB2
+    startTime: '18:00'
+    teacher: Oren Zaltz
+  51742_LB3:
+    building: L
+    classroom: Lab3
+    courseId: 51742
+    day: Thursday
+    duration: 3
+    groupId: LB3
+    startTime: '16:00'
+    teacher: Yarden Sarabi
+lectures:
+  11002_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 11002
+    day: Tuesday
+    duration: 2
+    groupId: L1
+    startTime: 08:00
+    teacher: Dr. Ira Wolfson
+  11002_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 11002
+    day: Wednesday
+    duration: 2
+    groupId: L2
+    startTime: '10:00'
+    teacher: Dr. Elena Trotskovsky
+  11002_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 11002
+    day: Tuesday
+    duration: 2
+    groupId: L3
+    startTime: 08:00
+    teacher: Yarden Sarabi
+  11002_L4:
+    building: EM
+    classroom: Rm4
+    courseId: 11002
+    day: Wednesday
+    duration: 2
+    groupId: L4
+    startTime: '10:00'
+    teacher: Yarden Sarabi
+  11004_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 11004
+    day: Tuesday
+    duration: 2
+    groupId: L1
+    startTime: 08:00
+    teacher: Ramik Khir
+  11004_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 11004
+    day: Wednesday
+    duration: 2
+    groupId: L2
+    startTime: '10:00'
+    teacher: Olga Khatrinov
+  11004_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 11004
+    day: Tuesday
+    duration: 2
+    groupId: L3
+    startTime: 08:00
+    teacher: Anatoly Likhult
+  11004_L4:
+    building: EM
+    classroom: Rm4
+    courseId: 11004
+    day: Wednesday
+    duration: 2
+    groupId: L4
+    startTime: '10:00'
+    teacher: Dr. Beto Catz
+  11006_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 11006
+    day: Tuesday
+    duration: 2
+    groupId: L1
+    startTime: 08:00
+    teacher: Yarden Sarabi
+  11006_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 11006
+    day: Wednesday
+    duration: 2
+    groupId: L2
+    startTime: '10:00'
+    teacher: Tom Reiner
+  11006_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 11006
+    day: Tuesday
+    duration: 2
+    groupId: L3
+    startTime: 08:00
+    teacher: Ramik Khir
+  11006_L4:
+    building: EM
+    classroom: Rm4
+    courseId: 11006
+    day: Wednesday
+    duration: 2
+    groupId: L4
+    startTime: '10:00'
+    teacher: Fady Shakour
+  11057_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 11057
+    day: Thursday
+    duration: 2
+    groupId: L1
+    startTime: 08:00
+    teacher: Eilon Littwitz
+  11057_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 11057
+    day: Friday
+    duration: 2
+    groupId: L2
+    startTime: '10:00'
+    teacher: Dr. Pini Zorea
+  11063_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 11063
+    day: Sunday
+    duration: 2
+    groupId: L1
+    startTime: 08:00
+    teacher: Inbal Ronen
+  11063_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 11063
+    day: Monday
+    duration: 2
+    groupId: L2
+    startTime: '10:00'
+    teacher: Dr. Elena Trotskovsky
+  11064_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 11064
+    day: Thursday
+    duration: 2
+    groupId: L1
+    startTime: 08:00
+    teacher: Dr. Rami Aharoni
+  11064_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 11064
+    day: Friday
+    duration: 2
+    groupId: L2
+    startTime: '10:00'
+    teacher: Yarden Sarabi
+  11121_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 11121
+    day: Tuesday
+    duration: 2
+    groupId: L1
+    startTime: 08:00
+    teacher: Avraham Cohen
+  11121_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 11121
+    day: Wednesday
+    duration: 2
+    groupId: L2
+    startTime: '10:00'
+    teacher: Ofer Tzur
+  11121_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 11121
+    day: Tuesday
+    duration: 2
+    groupId: L3
+    startTime: 08:00
+    teacher: Yael Erez
+  11122_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 11122
+    day: Thursday
+    duration: 2
+    groupId: L1
+    startTime: 08:00
+    teacher: Yaniv Avi
+  11122_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 11122
+    day: Friday
+    duration: 2
+    groupId: L2
+    startTime: '10:00'
+    teacher: Anatoly Likhult
+  11122_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 11122
+    day: Thursday
+    duration: 2
+    groupId: L3
+    startTime: 08:00
+    teacher: Weshah Zouabi
+  11123_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 11123
+    day: Thursday
+    duration: 2
+    groupId: L1
+    startTime: 08:00
+    teacher: Oren Zaltz
+  11123_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 11123
+    day: Friday
+    duration: 2
+    groupId: L2
+    startTime: '10:00'
+    teacher: Dr. Einat Ravid
+  11123_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 11123
+    day: Thursday
+    duration: 2
+    groupId: L3
+    startTime: 08:00
+    teacher: Albert Profis
+  11231_L1:
+    building: P
+    classroom: Rm1
+    courseId: 11231
+    day: Tuesday
+    duration: 2
+    groupId: L1
+    startTime: 08:00
+    teacher: Dr. Rafael Shalala
+  11231_L2:
+    building: P
+    classroom: Rm2
+    courseId: 11231
+    day: Wednesday
+    duration: 2
+    groupId: L2
+    startTime: '10:00'
+    teacher: Dr. Elena Trotskovsky
+  11231_L3:
+    building: P
+    classroom: Rm3
+    courseId: 11231
+    day: Tuesday
+    duration: 2
+    groupId: L3
+    startTime: 08:00
+    teacher: Gnadi Tsoglin
+  11231_L4:
+    building: P
+    classroom: Rm4
+    courseId: 11231
+    day: Wednesday
+    duration: 2
+    groupId: L4
+    startTime: '10:00'
+    teacher: Anatoly Likhult
+  11232_L1:
+    building: P
+    classroom: Rm1
+    courseId: 11232
+    day: Thursday
+    duration: 2
+    groupId: L1
+    startTime: 08:00
+    teacher: Ran Feld
+  11232_L2:
+    building: P
+    classroom: Rm2
+    courseId: 11232
+    day: Friday
+    duration: 2
+    groupId: L2
+    startTime: '10:00'
+    teacher: Oren Zaltz
+  11233_L1:
+    building: P
+    classroom: Rm1
+    courseId: 11233
+    day: Thursday
+    duration: 2
+    groupId: L1
+    startTime: '10:00'
+    teacher: Dr. Rami Aharoni
+  11233_L2:
+    building: P
+    classroom: Rm2
+    courseId: 11233
+    day: Friday
+    duration: 2
+    groupId: L2
+    startTime: '12:00'
+    teacher: Dr. Beto Catz
+  251961_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 251961
+    day: Sunday
+    duration: 2
+    groupId: L1
+    startTime: 08:00
+    teacher: Yarden Sarabi
+  251961_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 251961
+    day: Monday
+    duration: 2
+    groupId: L2
+    startTime: '10:00'
+    teacher: Alejandro Gulikhov
+  31017_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31017
+    day: Thursday
+    duration: 2
+    groupId: L1
+    startTime: '10:00'
+    teacher: Oren Zaltz
+  31017_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31017
+    day: Friday
+    duration: 2
+    groupId: L2
+    startTime: '12:00'
+    teacher: Yael Erez
+  31100_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31100
+    day: Sunday
+    duration: 2
+    groupId: L1
+    startTime: '14:00'
+    teacher: Dr. Einat Ravid
+  31100_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31100
+    day: Monday
+    duration: 2
+    groupId: L2
+    startTime: '16:00'
+    teacher: Itzhak Shlomo
+  31100_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 31100
+    day: Sunday
+    duration: 2
+    groupId: L3
+    startTime: '14:00'
+    teacher: David Margolis
+  31100_L4:
+    building: EM
+    classroom: Rm4
+    courseId: 31100
+    day: Monday
+    duration: 2
+    groupId: L4
+    startTime: '16:00'
+    teacher: Ramik Khir
+  31101_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31101
+    day: Sunday
+    duration: 2
+    groupId: L1
+    startTime: '14:00'
+    teacher: Dr. Vladislav Shteeman
+  31101_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31101
+    day: Monday
+    duration: 2
+    groupId: L2
+    startTime: '16:00'
+    teacher: Dr. Elena Trotskovsky
+  31101_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 31101
+    day: Sunday
+    duration: 2
+    groupId: L3
+    startTime: '14:00'
+    teacher: Eyal Sade
+  31102_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31102
+    day: Tuesday
+    duration: 2
+    groupId: L1
+    startTime: '14:00'
+    teacher: Albert Profis
+  31102_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31102
+    day: Wednesday
+    duration: 2
+    groupId: L2
+    startTime: '16:00'
+    teacher: Dr. Fadil Tareef
+  31102_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 31102
+    day: Tuesday
+    duration: 2
+    groupId: L3
+    startTime: '14:00'
+    teacher: Yana Zamustiano
+  31103_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31103
+    day: Tuesday
+    duration: 2
+    groupId: L1
+    startTime: '14:00'
+    teacher: Weshah Zouabi
+  31103_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31103
+    day: Wednesday
+    duration: 2
+    groupId: L2
+    startTime: '16:00'
+    teacher: Ran Feld
+  31103_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 31103
+    day: Tuesday
+    duration: 2
+    groupId: L3
+    startTime: '14:00'
+    teacher: Eilon Littwitz
+  31104_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31104
+    day: Tuesday
+    duration: 2
+    groupId: L1
+    startTime: '14:00'
+    teacher: Hala Salameh
+  31104_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31104
+    day: Wednesday
+    duration: 2
+    groupId: L2
+    startTime: '16:00'
+    teacher: Assoc. Prof. Amir Adler
+  31230_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31230
+    day: Sunday
+    duration: 2
+    groupId: L1
+    startTime: 08:00
+    teacher: Anatoly Likhult
+  31230_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31230
+    day: Monday
+    duration: 2
+    groupId: L2
+    startTime: '10:00'
+    teacher: Dr. Rami Aharoni
+  31316_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31316
+    day: Tuesday
+    duration: 2
+    groupId: L1
+    startTime: 08:00
+    teacher: Ran Feld
+  31316_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31316
+    day: Wednesday
+    duration: 2
+    groupId: L2
+    startTime: '10:00'
+    teacher: Dr. Pini Zorea
+  31316_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 31316
+    day: Tuesday
+    duration: 2
+    groupId: L3
+    startTime: 08:00
+    teacher: Yaniv Avi
+  31316_L4:
+    building: EM
+    classroom: Rm4
+    courseId: 31316
+    day: Wednesday
+    duration: 2
+    groupId: L4
+    startTime: '10:00'
+    teacher: Assoc. Prof. Amir Adler
+  31350_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31350
+    day: Sunday
+    duration: 2
+    groupId: L1
+    startTime: '10:00'
+    teacher: Ofer Tzur
+  31350_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31350
+    day: Monday
+    duration: 2
+    groupId: L2
+    startTime: '12:00'
+    teacher: Ofer Tzur
+  31350_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 31350
+    day: Sunday
+    duration: 2
+    groupId: L3
+    startTime: '10:00'
+    teacher: Dr. Fadil Tareef
+  31401_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31401
+    day: Sunday
+    duration: 2
+    groupId: L1
+    startTime: '10:00'
+    teacher: Dr. Einat Ravid
+  31401_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31401
+    day: Monday
+    duration: 2
+    groupId: L2
+    startTime: '12:00'
+    teacher: Liviu Gal
+  31401_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 31401
+    day: Sunday
+    duration: 2
+    groupId: L3
+    startTime: '10:00'
+    teacher: Dr. Ira Wolfson
+  31402_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31402
+    day: Sunday
+    duration: 2
+    groupId: L1
+    startTime: '10:00'
+    teacher: Liviu Gal
+  31402_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31402
+    day: Monday
+    duration: 2
+    groupId: L2
+    startTime: '12:00'
+    teacher: Kitzhak Kerren
+  31403_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31403
+    day: Tuesday
+    duration: 2
+    groupId: L1
+    startTime: '10:00'
+    teacher: Avraham Cohen
+  31403_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31403
+    day: Wednesday
+    duration: 2
+    groupId: L2
+    startTime: '12:00'
+    teacher: Yael Erez
+  31403_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 31403
+    day: Tuesday
+    duration: 2
+    groupId: L3
+    startTime: '10:00'
+    teacher: Dr. Ira Wolfson
+  31421_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31421
+    day: Sunday
+    duration: 2
+    groupId: L1
+    startTime: '10:00'
+    teacher: Yarden Sarabi
+  31421_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31421
+    day: Monday
+    duration: 2
+    groupId: L2
+    startTime: '12:00'
+    teacher: Dr. Beto Catz
+  31442_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31442
+    day: Tuesday
+    duration: 2
+    groupId: L1
+    startTime: '10:00'
+    teacher: Inbal Ronen
+  31442_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31442
+    day: Wednesday
+    duration: 2
+    groupId: L2
+    startTime: '12:00'
+    teacher: Gnadi Tsoglin
+  31442_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 31442
+    day: Tuesday
+    duration: 2
+    groupId: L3
+    startTime: '10:00'
+    teacher: Dr. Vladislav Shteeman
+  31451_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31451
+    day: Thursday
+    duration: 2
+    groupId: L1
+    startTime: '10:00'
+    teacher: Dr. Elena Trotskovsky
+  31451_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31451
+    day: Friday
+    duration: 2
+    groupId: L2
+    startTime: '12:00'
+    teacher: Tom Reiner
+  31511_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31511
+    day: Sunday
+    duration: 2
+    groupId: L1
+    startTime: 08:00
+    teacher: Yana Zamustiano
+  31511_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31511
+    day: Monday
+    duration: 2
+    groupId: L2
+    startTime: '10:00'
+    teacher: Yarden Sarabi
+  31511_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 31511
+    day: Sunday
+    duration: 2
+    groupId: L3
+    startTime: 08:00
+    teacher: Ran Feld
+  31521_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31521
+    day: Tuesday
+    duration: 2
+    groupId: L1
+    startTime: '10:00'
+    teacher: Inbal Ronen
+  31521_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31521
+    day: Wednesday
+    duration: 2
+    groupId: L2
+    startTime: '12:00'
+    teacher: Albert Profis
+  31616_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31616
+    day: Tuesday
+    duration: 2
+    groupId: L1
+    startTime: 08:00
+    teacher: Itzhak Shlomo
+  31616_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31616
+    day: Wednesday
+    duration: 2
+    groupId: L2
+    startTime: '10:00'
+    teacher: Yael Erez
+  31616_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 31616
+    day: Tuesday
+    duration: 2
+    groupId: L3
+    startTime: 08:00
+    teacher: Dr. Vladislav Shteeman
+  31705_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31705
+    day: Sunday
+    duration: 2
+    groupId: L1
+    startTime: '10:00'
+    teacher: Assoc. Prof. Amir Adler
+  31705_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31705
+    day: Monday
+    duration: 2
+    groupId: L2
+    startTime: '12:00'
+    teacher: Weshah Zouabi
+  31711_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31711
+    day: Tuesday
+    duration: 2
+    groupId: L1
+    startTime: '10:00'
+    teacher: Eilon Littwitz
+  31711_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31711
+    day: Wednesday
+    duration: 2
+    groupId: L2
+    startTime: '12:00'
+    teacher: Olga Khatrinov
+  31711_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 31711
+    day: Tuesday
+    duration: 2
+    groupId: L3
+    startTime: '10:00'
+    teacher: Yael Erez
+  31711_L4:
+    building: EM
+    classroom: Rm4
+    courseId: 31711
+    day: Wednesday
+    duration: 2
+    groupId: L4
+    startTime: '12:00'
+    teacher: Dr. Einat Ravid
+  31841_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31841
+    day: Thursday
+    duration: 2
+    groupId: L1
+    startTime: '10:00'
+    teacher: Inbal Ronen
+  31841_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31841
+    day: Friday
+    duration: 2
+    groupId: L2
+    startTime: '12:00'
+    teacher: Dr. Rami Aharoni
+  31841_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 31841
+    day: Thursday
+    duration: 2
+    groupId: L3
+    startTime: '10:00'
+    teacher: Itzhak Shlomo
+  31841_L4:
+    building: EM
+    classroom: Rm4
+    courseId: 31841
+    day: Friday
+    duration: 2
+    groupId: L4
+    startTime: '12:00'
+    teacher: David Margolis
+  31910_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31910
+    day: Tuesday
+    duration: 2
+    groupId: L1
+    startTime: '10:00'
+    teacher: Dr. Vladislav Shteeman
+  31910_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31910
+    day: Wednesday
+    duration: 2
+    groupId: L2
+    startTime: '12:00'
+    teacher: David Margolis
+  31999_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 31999
+    day: Tuesday
+    duration: 2
+    groupId: L1
+    startTime: '10:00'
+    teacher: Dr. Rami Aharoni
+  31999_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 31999
+    day: Wednesday
+    duration: 2
+    groupId: L2
+    startTime: '12:00'
+    teacher: Yarden Sarabi
+  31999_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 31999
+    day: Tuesday
+    duration: 2
+    groupId: L3
+    startTime: '10:00'
+    teacher: Dr. Ira Wolfson
+  31999_L4:
+    building: EM
+    classroom: Rm4
+    courseId: 31999
+    day: Wednesday
+    duration: 2
+    groupId: L4
+    startTime: '12:00'
+    teacher: Liviu Gal
+  41090_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 41090
+    day: Thursday
+    duration: 2
+    groupId: L1
+    startTime: 08:00
+    teacher: Shai Israeli
+  41090_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 41090
+    day: Friday
+    duration: 2
+    groupId: L2
+    startTime: '10:00'
+    teacher: Dr. Elena Trotskovsky
+  41090_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 41090
+    day: Thursday
+    duration: 2
+    groupId: L3
+    startTime: 08:00
+    teacher: Alejandro Gulikhov
+  41090_L4:
+    building: EM
+    classroom: Rm4
+    courseId: 41090
+    day: Friday
+    duration: 2
+    groupId: L4
+    startTime: '10:00'
+    teacher: Eyal Sade
+  51742_L1:
+    building: EM
+    classroom: Rm1
+    courseId: 51742
+    day: Thursday
+    duration: 2
+    groupId: L1
+    startTime: 08:00
+    teacher: David Margolis
+  51742_L2:
+    building: EM
+    classroom: Rm2
+    courseId: 51742
+    day: Friday
+    duration: 2
+    groupId: L2
+    startTime: '10:00'
+    teacher: Weshah Zouabi
+  51742_L3:
+    building: EM
+    classroom: Rm3
+    courseId: 51742
+    day: Thursday
+    duration: 2
+    groupId: L3
+    startTime: 08:00
+    teacher: Avraham Cohen
+schedule_contents:
+  '1':
+  - building: L
+    classroom: Lab1
+    courseId: 11121
+    day: Wednesday
+    duration: 3
+    groupId: LB1
+    scheduleId: 1
+    startTime: '16:00'
+    teacher: Shimon Pitelson
+    type: Lab
+schedules:
+  '1':
+    scheduleId: 1
+tutorials:
+  11002_T1:
+    building: M
+    classroom: Rm11
+    courseId: 11002
+    day: Tuesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Dr. Beto Catz
+  11002_T2:
+    building: M
+    classroom: Rm12
+    courseId: 11002
+    day: Thursday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Yael Erez
+  11004_T1:
+    building: M
+    classroom: Rm11
+    courseId: 11004
+    day: Tuesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Eilon Littwitz
+  11006_T1:
+    building: M
+    classroom: Rm11
+    courseId: 11006
+    day: Tuesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Tom Reiner
+  11006_T2:
+    building: M
+    classroom: Rm12
+    courseId: 11006
+    day: Thursday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Olga Khatrinov
+  11057_T1:
+    building: M
+    classroom: Rm11
+    courseId: 11057
+    day: Wednesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Fady Shakour
+  11057_T2:
+    building: M
+    classroom: Rm12
+    courseId: 11057
+    day: Friday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Dr. Pini Zorea
+  11057_T3:
+    building: M
+    classroom: Rm13
+    courseId: 11057
+    day: Wednesday
+    duration: 1
+    groupId: T3
+    startTime: '14:00'
+    teacher: Dr. Rami Aharoni
+  11057_T4:
+    building: M
+    classroom: Rm14
+    courseId: 11057
+    day: Friday
+    duration: 1
+    groupId: T4
+    startTime: '15:00'
+    teacher: Liviu Gal
+  11063_T1:
+    building: M
+    classroom: Rm11
+    courseId: 11063
+    day: Tuesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Eyal Sade
+  11064_T1:
+    building: M
+    classroom: Rm11
+    courseId: 11064
+    day: Wednesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Dr. Beto Catz
+  11064_T2:
+    building: M
+    classroom: Rm12
+    courseId: 11064
+    day: Friday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Dr. Vladislav Shteeman
+  11064_T3:
+    building: M
+    classroom: Rm13
+    courseId: 11064
+    day: Wednesday
+    duration: 1
+    groupId: T3
+    startTime: '14:00'
+    teacher: Liviu Gal
+  11121_T1:
+    building: M
+    classroom: Rm11
+    courseId: 11121
+    day: Tuesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Dr. Samuel Kosolapov
+  11122_T1:
+    building: M
+    classroom: Rm11
+    courseId: 11122
+    day: Wednesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Itzhak Shlomo
+  11122_T2:
+    building: M
+    classroom: Rm12
+    courseId: 11122
+    day: Friday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Dr. Elena Trotskovsky
+  11122_T3:
+    building: M
+    classroom: Rm13
+    courseId: 11122
+    day: Wednesday
+    duration: 1
+    groupId: T3
+    startTime: '14:00'
+    teacher: Dr. Fadil Tareef
+  11122_T4:
+    building: M
+    classroom: Rm14
+    courseId: 11122
+    day: Friday
+    duration: 1
+    groupId: T4
+    startTime: '15:00'
+    teacher: Ramik Khir
+  11123_T1:
+    building: M
+    classroom: Rm11
+    courseId: 11123
+    day: Wednesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Dr. Vladislav Shteeman
+  11123_T2:
+    building: M
+    classroom: Rm12
+    courseId: 11123
+    day: Friday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Alejandro Gulikhov
+  11123_T3:
+    building: M
+    classroom: Rm13
+    courseId: 11123
+    day: Wednesday
+    duration: 1
+    groupId: T3
+    startTime: '14:00'
+    teacher: Avraham Cohen
+  11231_T1:
+    building: M
+    classroom: Rm11
+    courseId: 11231
+    day: Tuesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: David Margolis
+  11231_T2:
+    building: M
+    classroom: Rm12
+    courseId: 11231
+    day: Thursday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Avraham Cohen
+  11231_T3:
+    building: M
+    classroom: Rm13
+    courseId: 11231
+    day: Tuesday
+    duration: 1
+    groupId: T3
+    startTime: '14:00'
+    teacher: Albert Profis
+  11232_T1:
+    building: M
+    classroom: Rm11
+    courseId: 11232
+    day: Wednesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Yaniv Avi
+  11232_T2:
+    building: M
+    classroom: Rm12
+    courseId: 11232
+    day: Friday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Yaniv Avi
+  11233_T1:
+    building: M
+    classroom: Rm11
+    courseId: 11233
+    day: Monday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Alejandro Gulikhov
+  251961_T1:
+    building: M
+    classroom: Rm11
+    courseId: 251961
+    day: Tuesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Gnadi Tsoglin
+  31017_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31017
+    day: Monday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Gnadi Tsoglin
+  31017_T2:
+    building: M
+    classroom: Rm12
+    courseId: 31017
+    day: Wednesday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Kitzhak Kerren
+  31017_T3:
+    building: M
+    classroom: Rm13
+    courseId: 31017
+    day: Monday
+    duration: 1
+    groupId: T3
+    startTime: '14:00'
+    teacher: Gnadi Tsoglin
+  31100_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31100
+    day: Tuesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Yaniv Avi
+  31100_T2:
+    building: M
+    classroom: Rm12
+    courseId: 31100
+    day: Thursday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Gnadi Tsoglin
+  31100_T3:
+    building: M
+    classroom: Rm13
+    courseId: 31100
+    day: Tuesday
+    duration: 1
+    groupId: T3
+    startTime: '14:00'
+    teacher: Dr. Samuel Kosolapov
+  31100_T4:
+    building: M
+    classroom: Rm14
+    courseId: 31100
+    day: Thursday
+    duration: 1
+    groupId: T4
+    startTime: '15:00'
+    teacher: Alejandro Gulikhov
+  31101_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31101
+    day: Tuesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Assoc. Prof. Amir Adler
+  31102_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31102
+    day: Tuesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Dr. Pini Zorea
+  31102_T2:
+    building: M
+    classroom: Rm12
+    courseId: 31102
+    day: Thursday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Dr. Samuel Kosolapov
+  31103_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31103
+    day: Tuesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Dr. Ira Wolfson
+  31103_T2:
+    building: M
+    classroom: Rm12
+    courseId: 31103
+    day: Thursday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Dr. Beto Catz
+  31103_T3:
+    building: M
+    classroom: Rm13
+    courseId: 31103
+    day: Tuesday
+    duration: 1
+    groupId: T3
+    startTime: '14:00'
+    teacher: Albert Profis
+  31103_T4:
+    building: M
+    classroom: Rm14
+    courseId: 31103
+    day: Thursday
+    duration: 1
+    groupId: T4
+    startTime: '15:00'
+    teacher: Ofer Tzur
+  31104_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31104
+    day: Tuesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Eyal Sade
+  31104_T2:
+    building: M
+    classroom: Rm12
+    courseId: 31104
+    day: Thursday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: David Margolis
+  31104_T3:
+    building: M
+    classroom: Rm13
+    courseId: 31104
+    day: Tuesday
+    duration: 1
+    groupId: T3
+    startTime: '14:00'
+    teacher: Hala Salameh
+  31104_T4:
+    building: M
+    classroom: Rm14
+    courseId: 31104
+    day: Thursday
+    duration: 1
+    groupId: T4
+    startTime: '15:00'
+    teacher: Kitzhak Kerren
+  31230_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31230
+    day: Tuesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Tom Reiner
+  31230_T2:
+    building: M
+    classroom: Rm12
+    courseId: 31230
+    day: Thursday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Avraham Cohen
+  31230_T3:
+    building: M
+    classroom: Rm13
+    courseId: 31230
+    day: Tuesday
+    duration: 1
+    groupId: T3
+    startTime: '14:00'
+    teacher: Olga Khatrinov
+  31316_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31316
+    day: Tuesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Assoc. Prof. Amir Adler
+  31350_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31350
+    day: Wednesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Oren Zaltz
+  31401_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31401
+    day: Wednesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Ofer Tzur
+  31401_T2:
+    building: M
+    classroom: Rm12
+    courseId: 31401
+    day: Friday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Dr. Ira Wolfson
+  31401_T3:
+    building: M
+    classroom: Rm13
+    courseId: 31401
+    day: Wednesday
+    duration: 1
+    groupId: T3
+    startTime: '14:00'
+    teacher: Weshah Zouabi
+  31401_T4:
+    building: M
+    classroom: Rm14
+    courseId: 31401
+    day: Friday
+    duration: 1
+    groupId: T4
+    startTime: '15:00'
+    teacher: Weshah Zouabi
+  31402_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31402
+    day: Wednesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Hala Salameh
+  31402_T2:
+    building: M
+    classroom: Rm12
+    courseId: 31402
+    day: Friday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Weshah Zouabi
+  31402_T3:
+    building: M
+    classroom: Rm13
+    courseId: 31402
+    day: Wednesday
+    duration: 1
+    groupId: T3
+    startTime: '14:00'
+    teacher: Shai Israeli
+  31402_T4:
+    building: M
+    classroom: Rm14
+    courseId: 31402
+    day: Friday
+    duration: 1
+    groupId: T4
+    startTime: '15:00'
+    teacher: Hala Salameh
+  31403_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31403
+    day: Monday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Oren Zaltz
+  31403_T2:
+    building: M
+    classroom: Rm12
+    courseId: 31403
+    day: Wednesday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Albert Profis
+  31403_T3:
+    building: M
+    classroom: Rm13
+    courseId: 31403
+    day: Monday
+    duration: 1
+    groupId: T3
+    startTime: '14:00'
+    teacher: Dr. Elena Trotskovsky
+  31421_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31421
+    day: Wednesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Anatoly Likhult
+  31421_T2:
+    building: M
+    classroom: Rm12
+    courseId: 31421
+    day: Friday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Dr. Vladislav Shteeman
+  31442_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31442
+    day: Monday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Itzhak Shlomo
+  31442_T2:
+    building: M
+    classroom: Rm12
+    courseId: 31442
+    day: Wednesday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Ran Feld
+  31442_T3:
+    building: M
+    classroom: Rm13
+    courseId: 31442
+    day: Monday
+    duration: 1
+    groupId: T3
+    startTime: '14:00'
+    teacher: Yaniv Avi
+  31442_T4:
+    building: M
+    classroom: Rm14
+    courseId: 31442
+    day: Wednesday
+    duration: 1
+    groupId: T4
+    startTime: '15:00'
+    teacher: Hala Salameh
+  31451_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31451
+    day: Monday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Dr. Vladislav Shteeman
+  31451_T2:
+    building: M
+    classroom: Rm12
+    courseId: 31451
+    day: Wednesday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Eyal Sade
+  31511_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31511
+    day: Tuesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Dr. Ira Wolfson
+  31511_T2:
+    building: M
+    classroom: Rm12
+    courseId: 31511
+    day: Thursday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: David Margolis
+  31511_T3:
+    building: M
+    classroom: Rm13
+    courseId: 31511
+    day: Tuesday
+    duration: 1
+    groupId: T3
+    startTime: '14:00'
+    teacher: Shimon Pitelson
+  31521_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31521
+    day: Monday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Avraham Cohen
+  31616_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31616
+    day: Tuesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Ramik Khir
+  31616_T2:
+    building: M
+    classroom: Rm12
+    courseId: 31616
+    day: Thursday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Gnadi Tsoglin
+  31705_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31705
+    day: Wednesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Yana Zamustiano
+  31705_T2:
+    building: M
+    classroom: Rm12
+    courseId: 31705
+    day: Friday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Hala Salameh
+  31705_T3:
+    building: M
+    classroom: Rm13
+    courseId: 31705
+    day: Wednesday
+    duration: 1
+    groupId: T3
+    startTime: '14:00'
+    teacher: Weshah Zouabi
+  31705_T4:
+    building: M
+    classroom: Rm14
+    courseId: 31705
+    day: Friday
+    duration: 1
+    groupId: T4
+    startTime: '15:00'
+    teacher: Liviu Gal
+  31711_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31711
+    day: Monday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Liviu Gal
+  31711_T2:
+    building: M
+    classroom: Rm12
+    courseId: 31711
+    day: Wednesday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Itzhak Shlomo
+  31711_T3:
+    building: M
+    classroom: Rm13
+    courseId: 31711
+    day: Monday
+    duration: 1
+    groupId: T3
+    startTime: '14:00'
+    teacher: Gnadi Tsoglin
+  31711_T4:
+    building: M
+    classroom: Rm14
+    courseId: 31711
+    day: Wednesday
+    duration: 1
+    groupId: T4
+    startTime: '15:00'
+    teacher: Yaniv Avi
+  31841_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31841
+    day: Monday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Yaniv Avi
+  31910_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31910
+    day: Monday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Dr. Fadil Tareef
+  31999_T1:
+    building: M
+    classroom: Rm11
+    courseId: 31999
+    day: Monday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Ofer Tzur
+  31999_T2:
+    building: M
+    classroom: Rm12
+    courseId: 31999
+    day: Wednesday
+    duration: 1
+    groupId: T2
+    startTime: '15:00'
+    teacher: Ran Feld
+  41090_T1:
+    building: M
+    classroom: Rm11
+    courseId: 41090
+    day: Wednesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Eilon Littwitz
+  51742_T1:
+    building: M
+    classroom: Rm11
+    courseId: 51742
+    day: Wednesday
+    duration: 1
+    groupId: T1
+    startTime: '14:00'
+    teacher: Gnadi Tsoglin

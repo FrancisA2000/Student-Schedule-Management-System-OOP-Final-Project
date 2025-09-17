@@ -1,0 +1,4 @@
+courseId,day,startTime,duration,classroom,building,teacher,groupId
+31101,Sunday,14:00,2,Rm1,EM,Dr. Vladislav Shteeman,L1
+31101,Monday,16:00,2,Rm2,EM,Dr. Elena Trotskovsky,L2
+31101,Sunday,14:00,2,Rm3,EM,Eyal Sade,L3

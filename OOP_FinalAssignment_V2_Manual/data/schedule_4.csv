@@ -1,0 +1,16 @@
+ScheduleID,LessonType,CourseID,Day,StartTime,Duration,Classroom,Building,Teacher,GroupID
+4,Lecture,11057,Thursday,08:00,2,Rm1,EM,Eilon Littwitz,L1
+4,Tutorial,11057,Wednesday,14:00,1,Rm11,M,Fady Shakour,T1
+4,Lab,11057,Thursday,16:00,3,Lab1,L,Yana Zamustiano,LB1
+4,Lecture,11122,Friday,10:00,2,Rm2,EM,Anatoly Likhult,L2
+4,Tutorial,11122,Friday,15:00,1,Rm12,M,Dr. Elena Trotskovsky,T2
+4,Lab,11122,Friday,18:00,3,Lab2,L,Shimon Pitelson,LB2
+4,Lecture,31999,Tuesday,10:00,2,Rm1,EM,Dr. Rami Aharoni,L1
+4,Tutorial,31999,Monday,14:00,1,Rm11,M,Ofer Tzur,T1
+4,Lab,31999,Monday,16:00,3,Lab1,L,Dr. Fadil Tareef,LB1
+4,Lecture,31511,Sunday,08:00,2,Rm1,EM,Yana Zamustiano,L1
+4,Tutorial,31511,Tuesday,14:00,1,Rm11,M,Dr. Ira Wolfson,T1
+4,Lab,31511,Wednesday,16:00,3,Lab1,L,Yaniv Avi,LB1
+4,Lecture,31451,Thursday,10:00,2,Rm1,EM,Dr. Elena Trotskovsky,L1
+4,Tutorial,31451,Wednesday,15:00,1,Rm12,M,Eyal Sade,T2
+4,Lab,31451,Tuesday,16:00,3,Lab1,L,Yarden Sarabi,LB1

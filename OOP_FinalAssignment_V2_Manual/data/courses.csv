@@ -1,0 +1,39 @@
+CourseID,Name,ExamDateA_Day,ExamDateA_Month,ExamDateA_Year,ExamDateB_Day,ExamDateB_Month,ExamDateB_Year,Credits,Lecturer
+11002,Algebra I,15,1,2026,18,2,2026,5,Dr. Rami Aharoni
+11004,Calculus I,20,1,2026,23,2,2026,5,Dr. Vladislav Shteeman
+11063,Basic English II,25,1,2026,28,2,2026,2,Dr. Fadil Tareef
+31230,Introduction to Computers,30,1,2026,2,3,2026,2.5,Dr. Samuel Kosolapov
+31511,Mathematics & Digital Systems,3,2,2026,6,3,2026,4,Ofer Tzur
+41090,Chemistry I,8,2,2026,11,3,2026,2.5,Assoc. Prof. Amir Adler
+251961,Engineering Fundamentals 3,13,2,2026,16,3,2026,1,Dr. Pini Zorea
+11006,Calculus II,18,2,2026,21,3,2026,5,Yael Erez
+11064,Advanced English I,22,2,2026,25,3,2026,2,Dr. Einat Ravid
+11121,ODE,26,2,2026,1,4,2026,2.5,Dr. Ira Wolfson
+11231,Physics I,17,1,2026,20,2,2026,4.5,Dr. Rafael Shalala
+31316,Intro to EE,24,1,2026,27,2,2026,5,Avraham Cohen
+31616,Intro to CS & C,29,1,2026,1,3,2026,4,Olga Khatrinov
+11057,Advanced English II,4,2,2026,7,3,2026,2,Oren Zaltz
+11122,PDE & Fourier,10,2,2026,13,3,2026,4,Eilon Littwitz
+11123,Complex Functions,15,2,2026,18,3,2026,4,Albert Profis
+11232,Physics II,19,2,2026,22,3,2026,4.5,Anatoly Likhult
+31350,Semiconductors,23,2,2026,26,3,2026,3.5,Dr. Beto Catz
+51742,Prob. & Stats,27,2,2026,1,4,2026,3,Liviu Gal
+31401,Analog Electronics,16,1,2026,19,2,2026,5,Gnadi Tsoglin
+31402,EE Lab I,21,1,2026,24,2,2026,2,Weshah Zouabi
+31421,Signals & Systems,26,1,2026,29,2,2026,5,Yaniv Avi
+31705,EM Fields & Waves,31,1,2026,3,3,2026,4,Kitzhak Kerren
+31403,EE Lab II,5,2,2026,8,3,2026,2,Fady Shakour
+31442,Digital Signal Processing,9,2,2026,12,3,2026,3,Ramik Khir
+31521,Digital Electronics,14,2,2026,17,3,2026,4,Shai Israeli
+31711,Intro to Communications,20,2,2026,23,3,2026,3.5,Shimon Pitelson
+31910,Intro to Control,24,2,2026,27,3,2026,3.5,Dr. Elena Trotskovsky
+31999,Energy Conversion I,28,2,2026,1,4,2026,3,Ran Feld
+11233,Physics III,18,1,2026,21,2,2026,4,Inbal Ronen
+31017,Competitive Project,22,1,2026,25,2,2026,3,Yarden Sarabi
+31451,Random Signals & Noise,27,1,2026,30,2,2026,4,Eyal Sade
+31841,Applied Electronics,2,2,2026,5,3,2026,2.5,Hala Salameh
+31100,Engineering Design A,6,2,2026,9,3,2026,3,David Margolis
+31101,Eng. Design A Industry/Research,11,2,2026,14,3,2026,3,Yana Zamustiano
+31102,Engineering Design B,16,2,2026,19,3,2026,3,Alejandro Gulikhov
+31103,Engineering Design B Research,21,2,2026,24,3,2026,5,Tom Reiner
+31104,Engineering Design B Industry,25,2,2026,28,3,2026,7,Itzhak Shlomo

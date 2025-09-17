@@ -1,0 +1,4 @@
+10
+CourseID,Day,StartTime,Duration,Classroom,Building,Teacher,GroupID
+11001,Sunday,08:00,2,Rm1,EM,Dr. Math,L1
+11001,Tuesday,10:00,2,Rm2,EM,Dr. Math,L2

@@ -1,0 +1,5 @@
+courseId,day,startTime,duration,classroom,building,teacher,groupId
+11122,Wednesday,14:00,1,Rm11,M,Itzhak Shlomo,T1
+11122,Friday,15:00,1,Rm12,M,Dr. Elena Trotskovsky,T2
+11122,Wednesday,14:00,1,Rm13,M,Dr. Fadil Tareef,T3
+11122,Friday,15:00,1,Rm14,M,Ramik Khir,T4

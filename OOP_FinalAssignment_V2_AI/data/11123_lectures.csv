@@ -1,0 +1,4 @@
+courseId,day,startTime,duration,classroom,building,teacher,groupId
+11123,Thursday,08:00,2,Rm1,EM,Oren Zaltz,L1
+11123,Friday,10:00,2,Rm2,EM,Dr. Einat Ravid,L2
+11123,Thursday,08:00,2,Rm3,EM,Albert Profis,L3

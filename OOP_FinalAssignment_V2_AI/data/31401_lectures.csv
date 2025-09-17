@@ -1,0 +1,4 @@
+courseId,day,startTime,duration,classroom,building,teacher,groupId
+31401,Sunday,10:00,2,Rm1,EM,Dr. Einat Ravid,L1
+31401,Monday,12:00,2,Rm2,EM,Liviu Gal,L2
+31401,Sunday,10:00,2,Rm3,EM,Dr. Ira Wolfson,L3

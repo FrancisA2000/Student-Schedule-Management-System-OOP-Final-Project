@@ -1,0 +1,13 @@
+ScheduleID,LessonType,CourseID,Day,StartTime,Duration,Classroom,Building,Teacher,GroupID
+3,Tutorial,31402,Friday,15:00,1,Rm12,M,Weshah Zouabi,T2
+3,Tutorial,31910,Monday,14:00,1,Rm11,M,Dr. Fadil Tareef,T1
+3,Lecture,251961,Sunday,08:00,2,Rm1,EM,Yarden Sarabi,L1
+3,Lecture,31402,Sunday,10:00,2,Rm1,EM,Liviu Gal,L1
+3,Lecture,51742,Thursday,08:00,2,Rm1,EM,David Margolis,L1
+3,Lab,51742,Thursday,16:00,3,Lab1,L,Dr. Beto Catz,LB1
+3,Lecture,31910,Tuesday,10:00,2,Rm1,EM,Dr. Vladislav Shteeman,L1
+3,Tutorial,251961,Tuesday,14:00,1,Rm11,M,Gnadi Tsoglin,T1
+3,Tutorial,51742,Wednesday,14:00,1,Rm11,M,Gnadi Tsoglin,T1
+3,Lab,251961,Wednesday,16:00,3,Lab1,L,Fady Shakour,LB1
+3,Lab,31402,Tuesday,16:00,3,Lab3,L,Gnadi Tsoglin,LB3
+3,Lab,31910,Monday,16:00,3,Lab3,L,Kitzhak Kerren,LB3

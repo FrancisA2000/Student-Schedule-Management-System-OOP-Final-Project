@@ -1,0 +1,5 @@
+courseId,day,startTime,duration,classroom,building,teacher,groupId
+11231,Tuesday,08:00,2,Rm1,P,Dr. Rafael Shalala,L1
+11231,Wednesday,10:00,2,Rm2,P,Dr. Elena Trotskovsky,L2
+11231,Tuesday,08:00,2,Rm3,P,Gnadi Tsoglin,L3
+11231,Wednesday,10:00,2,Rm4,P,Anatoly Likhult,L4

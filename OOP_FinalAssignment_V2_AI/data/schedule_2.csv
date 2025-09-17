@@ -1,0 +1,13 @@
+ScheduleID,LessonType,CourseID,Day,StartTime,Duration,Classroom,Building,Teacher,GroupID
+4,Lecture,31451,Thursday,10:00,2,Rm1,EM,Dr. Elena Trotskovsky,L1
+4,Lab,31451,Tuesday,16:00,3,Lab1,L,Yarden Sarabi,LB1
+4,Tutorial,31451,Monday,14:00,1,Rm11,M,Dr. Vladislav Shteeman,T1
+4,Lecture,31401,Sunday,10:00,2,Rm1,EM,Dr. Einat Ravid,L1
+4,Lab,31401,Thursday,18:00,3,Lab2,L,Ofer Tzur,LB2
+4,Tutorial,31401,Wednesday,14:00,1,Rm11,M,Ofer Tzur,T1
+4,Lecture,31104,Tuesday,14:00,2,Rm1,EM,Hala Salameh,L1
+4,Lab,31104,Monday,16:00,3,Lab1,L,Dr. Einat Ravid,LB1
+4,Tutorial,31104,Thursday,15:00,1,Rm12,M,David Margolis,T2
+4,Lecture,11123,Thursday,08:00,2,Rm1,EM,Oren Zaltz,L1
+4,Lab,11123,Friday,18:00,3,Lab2,L,Albert Profis,LB2
+4,Tutorial,11123,Friday,15:00,1,Rm12,M,Alejandro Gulikhov,T2

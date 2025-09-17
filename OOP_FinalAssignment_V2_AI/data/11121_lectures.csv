@@ -1,0 +1,4 @@
+courseId,day,startTime,duration,classroom,building,teacher,groupId
+11121,Tuesday,08:00,2,Rm1,EM,Avraham Cohen,L1
+11121,Wednesday,10:00,2,Rm2,EM,Ofer Tzur,L2
+11121,Tuesday,08:00,2,Rm3,EM,Yael Erez,L3

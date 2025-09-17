@@ -1,0 +1,6 @@
+CourseID,Name,ExamDateA_Day,ExamDateA_Month,ExamDateA_Year,ExamDateB_Day,ExamDateB_Month,ExamDateB_Year,Credits,Lecturer
+11001,Calculus I,15,1,2025,25,8,2025,5,Dr. Math
+11002,Physics I,16,1,2025,26,8,2025,4,Dr. Physics
+11003,Chemistry I,17,1,2025,27,8,2025,4,Dr. Chem
+11004,English I,18,1,2025,28,8,2025,3,Dr. English
+11005,Programming I,19,1,2025,29,8,2025,4,Dr. Code

@@ -1,0 +1,4 @@
+ScheduleID,LessonType,CourseID,Day,StartTime,Duration,Classroom,Building,Teacher,GroupID
+3,Lecture,31910,Wednesday,12:00,2,Rm2,EM,David Margolis,L2
+3,Tutorial,31104,Tuesday,14:00,1,Rm11,M,Eyal Sade,T1
+3,Tutorial,31103,Thursday,15:00,1,Rm12,M,Dr. Beto Catz,T2

@@ -1,0 +1,4 @@
+courseId,day,startTime,duration,classroom,building,teacher,groupId
+31711,Monday,16:00,3,Lab1,L,Dr. Rafael Shalala,LB1
+31711,Wednesday,18:00,3,Lab2,L,Olga Khatrinov,LB2
+31711,Monday,16:00,3,Lab3,L,Dr. Einat Ravid,LB3

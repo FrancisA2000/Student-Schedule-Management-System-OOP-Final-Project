@@ -1,0 +1,5 @@
+courseId,day,startTime,duration,classroom,building,teacher,groupId
+31100,Sunday,14:00,2,Rm1,EM,Dr. Einat Ravid,L1
+31100,Monday,16:00,2,Rm2,EM,Itzhak Shlomo,L2
+31100,Sunday,14:00,2,Rm3,EM,David Margolis,L3
+31100,Monday,16:00,2,Rm4,EM,Ramik Khir,L4

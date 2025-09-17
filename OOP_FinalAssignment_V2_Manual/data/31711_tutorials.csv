@@ -1,0 +1,5 @@
+courseId,day,startTime,duration,classroom,building,teacher,groupId
+31711,Monday,14:00,1,Rm11,M,Liviu Gal,T1
+31711,Wednesday,15:00,1,Rm12,M,Itzhak Shlomo,T2
+31711,Monday,14:00,1,Rm13,M,Gnadi Tsoglin,T3
+31711,Wednesday,15:00,1,Rm14,M,Yaniv Avi,T4

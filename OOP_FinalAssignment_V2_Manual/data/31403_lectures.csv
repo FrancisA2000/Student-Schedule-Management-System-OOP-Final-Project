@@ -1,0 +1,4 @@
+courseId,day,startTime,duration,classroom,building,teacher,groupId
+31403,Tuesday,10:00,2,Rm1,EM,Avraham Cohen,L1
+31403,Wednesday,12:00,2,Rm2,EM,Yael Erez,L2
+31403,Tuesday,10:00,2,Rm3,EM,Dr. Ira Wolfson,L3

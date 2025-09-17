@@ -1,0 +1,4 @@
+courseId,day,startTime,duration,classroom,building,teacher,groupId
+11123,Thursday,16:00,3,Lab1,L,Dr. Fadil Tareef,LB1
+11123,Friday,18:00,3,Lab2,L,Albert Profis,LB2
+11123,Thursday,16:00,3,Lab3,L,Dr. Ira Wolfson,LB3

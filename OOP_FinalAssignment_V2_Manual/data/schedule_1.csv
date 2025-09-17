@@ -1,0 +1,6 @@
+ScheduleID,LessonType,CourseID,Day,StartTime,Duration,Classroom,Building,Teacher,GroupID
+1,Lecture,11004,Tuesday,08:00,2,Rm1,EM,Ramik Khir,L1
+1,Lecture,11004,Wednesday,10:00,2,Rm2,EM,Olga Khatrinov,L2
+1,Lecture,31910,Wednesday,12:00,2,Rm2,EM,David Margolis,L2
+1,Tutorial,41090,Thursday,08:00,1,Rm11,M,Eilon Littwitz,T1
+1,Lab,11121,Wednesday,16:00,3,Lab1,L,Shimon Pitelson,LB1

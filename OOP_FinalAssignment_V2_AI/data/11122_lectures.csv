@@ -1,0 +1,4 @@
+courseId,day,startTime,duration,classroom,building,teacher,groupId
+11122,Thursday,08:00,2,Rm1,EM,Yaniv Avi,L1
+11122,Friday,10:00,2,Rm2,EM,Anatoly Likhult,L2
+11122,Thursday,08:00,2,Rm3,EM,Weshah Zouabi,L3

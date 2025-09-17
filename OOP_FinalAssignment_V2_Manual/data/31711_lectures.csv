@@ -1,0 +1,5 @@
+courseId,day,startTime,duration,classroom,building,teacher,groupId
+31711,Tuesday,10:00,2,Rm1,EM,Eilon Littwitz,L1
+31711,Wednesday,12:00,2,Rm2,EM,Olga Khatrinov,L2
+31711,Tuesday,10:00,2,Rm3,EM,Yael Erez,L3
+31711,Wednesday,12:00,2,Rm4,EM,Dr. Einat Ravid,L4

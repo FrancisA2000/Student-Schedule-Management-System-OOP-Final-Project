@@ -1,0 +1,16 @@
+ScheduleID,LessonType,CourseID,Day,StartTime,Duration,Classroom,Building,Teacher,GroupID
+6,Lecture,11004,Tuesday,08:00,2,Rm1,EM,Ramik Khir,L1
+6,Lab,11004,Wednesday,16:00,3,Lab1,L,Ran Feld,LB1
+6,Tutorial,11004,Tuesday,14:00,1,Rm11,M,Eilon Littwitz,T1
+6,Lecture,31421,Sunday,10:00,2,Rm1,EM,Yarden Sarabi,L1
+6,Lab,31421,Tuesday,16:00,3,Lab1,L,Dr. Elena Trotskovsky,LB1
+6,Tutorial,31421,Wednesday,14:00,1,Rm11,M,Anatoly Likhult,T1
+6,Lecture,31521,Tuesday,10:00,2,Rm1,EM,Inbal Ronen,L1
+6,Lab,31521,Monday,16:00,3,Lab1,L,Dr. Elena Trotskovsky,LB1
+6,Tutorial,31521,Monday,14:00,1,Rm11,M,Avraham Cohen,T1
+6,Lecture,31230,Sunday,08:00,2,Rm1,EM,Anatoly Likhult,L1
+6,Lab,31230,Friday,18:00,3,Lab2,L,David Margolis,LB2
+6,Tutorial,31230,Thursday,15:00,1,Rm12,M,Avraham Cohen,T2
+6,Lecture,11122,Thursday,08:00,2,Rm1,EM,Yaniv Avi,L1
+6,Lab,11122,Thursday,16:00,3,Lab1,L,Dr. Fadil Tareef,LB1
+6,Tutorial,11122,Friday,15:00,1,Rm12,M,Dr. Elena Trotskovsky,T2
