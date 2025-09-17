@@ -1,4 +1,3 @@
-```markdown
 # Student Schedule Management System (OOP Final Project – 31695, 2025)
 
 ## 📌 Short Description
@@ -91,5 +90,3 @@ The three implementations are compared on:
 * Stack Overflow
 * ChatGPT & GenAI tools
 * Base44 Documentation ([docs.base44.com](https://docs.base44.com))
-
-```
